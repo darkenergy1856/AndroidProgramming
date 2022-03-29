@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Program_4</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="listItems">
+        <item>Flower</item>
+        <item>Landscape</item>
+        <item>Anime</item>
+        <item>Animal</item>
+    </string-array>
+</resources>

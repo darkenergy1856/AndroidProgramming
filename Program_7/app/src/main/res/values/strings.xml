@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Program_7</string>
+    <color name="Peach_Crayola">#efbc9b</color>
+    <color name="Antique_Fuchsia">#9d6a89</color>
+    <color name="Old_Lavender">#725d68</color>
+    <string name="Peach_Crayola">Peach Crayola</string>
+    <string name="Antique_Fuchsia">Antique Fuchsia</string>
+    <string name="Old_Lavender">Old Lavender</string>
+</resources>

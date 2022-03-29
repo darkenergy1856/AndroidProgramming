@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Program_6</string>
+    <string name="initialText">Select item from Above</string>
+    <string name="computerScience">Teacher In-Charge : Jayant Sir</string>
+    <string name="FoodTechnology">Teacher In-Charge : Unknown</string>
+    <string name="Mathematics">Teacher In-Charge : Unknown</string>
+    <string name="BioMedical">Teacher In-Charge : Unknown</string>
+</resources>

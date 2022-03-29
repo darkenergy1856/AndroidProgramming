@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Program_5</string>
+    <string name="defaultValue">"Hello World"</string>
+</resources>
