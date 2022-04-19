@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Program_9</string>
+    <string name="change_fragment">Change Fragment</string>
+    <string name="change_color_Background">Change Background Color</string>
+    <string name="change_color_Foreground">Change Foreground Color</string>
+    <string name="DefaultText">Let\'s Try Fragment</string>
+    <string name="reset">Reset</string>
+
+</resources>
