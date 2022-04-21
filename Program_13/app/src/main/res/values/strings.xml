@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Program_13</string>
+    <string name="notification">Notification</string>
+    <string name="create_notification">Create Notification</string>
+    <string name="text_input_optional">Text Input (Optional)</string>
+    <string name="channel_name">PROGRAM_13</string>
+    <string name="channel_description">Default</string>
+</resources>
