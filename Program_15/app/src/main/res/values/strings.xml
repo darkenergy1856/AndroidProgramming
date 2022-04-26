@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Program_15</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="view">View</string>
+    <string name="delete">Delete</string>
+    <string name="roll_no">Roll No</string>
+    <string name="name">Name</string>
+    <string name="viewMode">View Mode</string>
+    <string name="createMode">Create Mode</string>
+    <string name="deleteMode">Delete Mode</string>
+    <string name="updateMode">Update Mode</string>
+
+</resources>
