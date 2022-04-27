@@ -5,7 +5,6 @@ import android.content.Context
 import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import android.widget.Toast
 
 const val DATABASE_NAME  = "STUDENT"
 const val TABLE_NAME = "STUDENTRECORD"
@@ -33,10 +32,11 @@ class SqlClass(context: Context) : SQLiteOpenHelper(context ,
     }
 
     fun updateData(rollNo : Int , name : String) {
-        val query =
-            "UPDATE $TABLE_NAME set name = '$name' where rollNo = $rollNo"
         val database = this.writableDatabase
-        database.execSQL(query)
+        val values = ContentValues()
+        values.put("name", name )
+        val arg = arrayOf<String>(rollNo.toString())
+        database.update(TABLE_NAME ,values , "rollNo = ?" , arg)
         database.close()
     }
 
